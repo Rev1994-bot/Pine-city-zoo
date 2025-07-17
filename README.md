@@ -1,7 +1,5 @@
 
 
-`markdown
-
 Pine City Zoo
 
 Pine City Zoo is a fictional web design project created to showcase foundational front-end development skills using HTML and CSS. This mock website simulates the structure of a digital zoo experience, emphasizing design principles, layout clarity, and user-friendly navigation—all without JavaScript.
